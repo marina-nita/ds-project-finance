@@ -43,9 +43,5 @@ Analyze and understand patterns in financial data, prepare it for modeling, and 
 2. Ensure required libraries are installed (`pip install -r requirements.txt`).
 3. Place dataset CSV at the expected path or modify the path in `03_data_loading.py`.
 
----
 
-## 📅 Commit Info
-
-Original work was completed in **December 2022**, and the commit history reflects this for archival accuracy.
 
